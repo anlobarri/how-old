@@ -1,0 +1,52 @@
+[
+  {
+    "nombre": "Tom Hanks",
+    "edad": 68,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tom_Hanks_TIFF_2019.jpg"
+  },
+  {
+    "nombre": "Meryl Streep",
+    "edad": 75,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/46/Meryl_Streep_December_2018.jpg"
+  },
+  {
+    "nombre": "Leonardo DiCaprio",
+    "edad": 49,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/46/Leonardo_Dicaprio_Cannes_2019.jpg"
+  },
+  {
+    "nombre": "Viola Davis",
+    "edad": 59,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/85/Viola_Davis_2016.jpg"
+  },
+  {
+    "nombre": "Denzel Washington",
+    "edad": 69,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Denzel_Washington_2018.jpg/1200px-Denzel_Washington_2018.jpg"
+  },
+  {
+    "nombre": "Cate Blanchett",
+    "edad": 55,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cate_Blanchett_Cannes_2018_2.jpg"
+  },
+  {
+    "nombre": "Will Smith",
+    "edad": 55,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/TechCrunch_Disrupt_2019_%2848834434641%29_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Scarlett Johansson",
+    "edad": 39,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Morgan Freeman",
+    "edad": 86,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Morgan_Freeman_Deauville_2018.jpg"
+  },
+  {
+    "nombre": "Charlize Theron",
+    "edad": 48,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Charlize-theron-IMG_6045.jpg"
+  }
+]
