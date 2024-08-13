@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 
 const COUNTDOWN_TIME = 10;
 
-export default function Question({ famoso, onAnswer, questionNumber, totalQuestions, currentScore }) {
+export default function Question({ famoso, onAnswer, questionNumber, totalQuestions, currentScore, fails }) {
   const [options, setOptions] = useState([]);
   const [selectedAge, setSelectedAge] = useState(null);
   const [isAnswered, setIsAnswered] = useState(false);
@@ -38,7 +38,7 @@ export default function Question({ famoso, onAnswer, questionNumber, totalQuesti
 
   const handleAnswer = (age) => {
     if (isAnswered) return;
-    
+  
     setSelectedAge(age);
     setIsAnswered(true);
     if (age !== famoso.edad) {
@@ -49,24 +49,28 @@ export default function Question({ famoso, onAnswer, questionNumber, totalQuesti
         }, 1000);
       }, 500);
     } else {
-      setTimeout(() => {
-        onAnswer(age);
-      }, 1500);
+      onAnswer(age); // Llamar a onAnswer inmediatamente si la respuesta es correcta
     }
   };
 
   const getButtonColor = (age) => {
-    if (!isAnswered) return 'bg-blue-500 hover:bg-blue-700';
-    if (age === famoso.edad && (selectedAge === age || showCorrect)) return 'bg-green-500 hover:bg-green-500';
-    if (age === selectedAge) return 'bg-red-500 hover:bg-red-500';
-    return 'bg-blue-500 hover:bg-blue-500';
+    if (!isAnswered) return 'bg-transparent ';
+    if (age === famoso.edad && (selectedAge === age || showCorrect)) return 'bg-green-900 ';
+    if (age === selectedAge) return 'bg-red-900 ';
+    return 'bg-transparent ';
   };
 
   return (
     <div className="text-center">
-      <h2 className="text-2xl font-bold mb-2">
-        Pregunta {questionNumber}
+      <div className='flex flex-row gap-4 justify-center mb-4'>
+      <h2 className="text-2xl  mb-2">
+        Preguntas <span className='font-bold'>{questionNumber}</span>
       </h2>
+      <h2 className="text-2xl font-bold mb-2">
+        Fallos <span className='font-bold'>{fails}</span>
+      </h2>
+
+      </div>
       
       <div className="w-full bg-gray-200 rounded-full h-2.5 mb-4">
         <div 
@@ -85,7 +89,7 @@ export default function Question({ famoso, onAnswer, questionNumber, totalQuesti
           <button
             key={index}
             onClick={() => handleAnswer(age)}
-            className={`${getButtonColor(age)} text-white font-bold py-2 px-4 rounded transition duration-300`}
+            className={`${getButtonColor(age)} text-white font-bold py-8 px-12 rounded transition duration-300  border border-slate-100`}
             disabled={isAnswered}
           >
             {age} años

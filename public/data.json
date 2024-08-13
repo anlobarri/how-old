@@ -48,5 +48,410 @@
     "nombre": "Charlize Theron",
     "edad": 48,
     "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Charlize-theron-IMG_6045.jpg"
+  },
+  {
+    "nombre": "Robert De Niro",
+    "edad": 81,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Robert_De_Niro_Cannes_2016.jpg"
+  },
+  {
+    "nombre": "Angelina Jolie",
+    "edad": 49,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Angelina_Jolie_2019.jpg"
+  },
+  {
+    "nombre": "Brad Pitt",
+    "edad": 60,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Brad_Pitt_2019_by_Glenn_Francis.jpg"
+  },
+  {
+    "nombre": "Jennifer Aniston",
+    "edad": 55,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Jennifer_Aniston_2011.jpg"
+  },
+  {
+    "nombre": "George Clooney",
+    "edad": 63,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8d/George_Clooney-4_The_Men_Who_Stare_at_Goats_TIFF09_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Julia Roberts",
+    "edad": 56,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Julia_Roberts_%28March_2011%29.jpg"
+  },
+  {
+    "nombre": "Matt Damon",
+    "edad": 54,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/98/Matt_Damon_TIFF_2015.jpg"
+  },
+  {
+    "nombre": "Nicole Kidman",
+    "edad": 57,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Nicole_Kidman_Cannes_2017_2.jpg"
+  },
+  {
+    "nombre": "Johnny Depp",
+    "edad": 61,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Johnny_Depp_2020.jpg"
+  },
+  {
+    "nombre": "Keanu Reeves",
+    "edad": 59,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Keanu_Reeves%2C_Berlinale_2015.jpg"
+  },
+  {
+    "nombre": "Emma Stone",
+    "edad": 35,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Emma_Stone_at_Maniac_UK_Premiere_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Tom Cruise",
+    "edad": 62,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tom_Cruise_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "nombre": "Sandra Bullock",
+    "edad": 60,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sandra_Bullock_in_July_2013.jpg"
+  },
+  {
+    "nombre": "Hugh Jackman",
+    "edad": 55,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hugh_Jackman_at_the_2017_Golden_Globe_Awards.jpg"
+  },
+  {
+    "nombre": "Chris Hemsworth",
+    "edad": 41,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Anne Hathaway",
+    "edad": 41,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Anne_Hathaway_in_2017.png"
+  },
+  {
+    "nombre": "Joaquin Phoenix",
+    "edad": 49,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Joaquin_Phoenix_in_2018.jpg"
+  },
+  {
+    "nombre": "Ryan Reynolds",
+    "edad": 47,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Ryan_Reynolds_San_Diego_Comic-Con_2015_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Natalie Portman",
+    "edad": 43,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Natalie_Portman_Cannes_2015.jpg"
+  },
+  {
+    "nombre": "Gal Gadot",
+    "edad": 39,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gal_Gadot_by_Gage_Skidmore_4_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Robert Downey Jr.",
+    "edad": 59,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Robert_Downey_Jr_June_2014.jpg"
+  },
+  {
+    "nombre": "Halle Berry",
+    "edad": 58,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Halle_Berry_by_Gage_Skidmore_3.jpg"
+  },
+  {
+    "nombre": "Chris Evans",
+    "edad": 43,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Chris_Evans_SDCC_2014_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Benedict Cumberbatch",
+    "edad": 48,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Benedict_Cumberbatch_2014_Comic_Con_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Angelina Jolie",
+    "edad": 49,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Angelina_Jolie_2019.jpg"
+  },
+  {
+    "nombre": "Margot Robbie",
+    "edad": 34,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Margot_Robbie_at_the_2015_San_Diego_Comic-Con_International_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Christian Bale",
+    "edad": 50,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Christian_Bale-7830.jpg"
+  },
+  {
+    "nombre": "Amy Adams",
+    "edad": 50,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/85/Amy_Adams_December_2016.jpg"
+  },
+  {
+    "nombre": "Jake Gyllenhaal",
+    "edad": 43,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/88/Jake_Gyllenhaal_%2848437363552%29_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Emma Watson",
+    "edad": 34,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Emma_Watson_in_the_Bagshot_Park.jpg"
+  },
+  {
+    "nombre": "Harrison Ford",
+    "edad": 82,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/72/Harrison_Ford_by_Gage_Skidmore.jpg"
+  },
+  {
+    "nombre": "Mark Ruffalo",
+    "edad": 56,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Mark_Ruffalo_2017.jpg"
+  },
+  {
+    "nombre": "Vin Diesel",
+    "edad": 57,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/10/Vin_Diesel_by_Gage_Skidmore_3.jpg"
+  },
+  {
+    "nombre": "Salma Hayek",
+    "edad": 58,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Salma_Hayek-9894.jpg"
+  },
+  {
+    "nombre": "Bruce Willis",
+    "edad": 69,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Bruce_Willis_by_Gage_Skidmore.jpg"
+  },
+  {
+    "nombre": "Zoe Saldana",
+    "edad": 46,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Zoe_Saldana_2014.jpg"
+  },
+  {
+    "nombre": "Ewan McGregor",
+    "edad": 53,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ewan_McGregor_by_Gage_Skidmore.jpg"
+  },
+  {
+    "nombre": "Cate Blanchett",
+    "edad": 55,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cate_Blanchett_Cannes_2018_2.jpg"
+  },
+  {
+    "nombre": "Dwayne Johnson",
+    "edad": 52,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Dwayne_Johnson_by_Gage_Skidmore_4.jpg"
+  },
+  {
+    "nombre": "Reese Witherspoon",
+    "edad": 48,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Reese_Witherspoon_in_2017.png"
+  },
+  {
+    "nombre": "Ryan Gosling",
+    "edad": 43,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ryan_Gosling_Cannes_2011.jpg"
+  },
+  {
+    "nombre": "Penélope Cruz",
+    "edad": 50,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pen%C3%A9lope_Cruz_%2881311024%29.jpg"
+  },
+  {
+    "nombre": "Timothée Chalamet",
+    "edad": 28,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/46/Timothee_Chalamet_2019.jpg"
+  },
+  {
+    "nombre": "Zendaya",
+    "edad": 28,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Zendaya_%2864479176191%29_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Javier Bardem",
+    "edad": 55,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Javier_Bardem_Cannes_2018.jpg"
+  },
+  {
+    "nombre": "Helen Mirren",
+    "edad": 79,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/65/Helen_Mirren-2208_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Tilda Swinton",
+    "edad": 63,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tilda_Swinton_2018_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Jason Momoa",
+    "edad": 45,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Jason_Momoa_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "nombre": "Gal Gadot",
+    "edad": 39,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gal_Gadot_by_Gage_Skidmore_4_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Michael Fassbender",
+    "edad": 47,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/18/Michael_Fassbender_2013.jpg"
+  },
+  {
+    "nombre": "Sophie Turner",
+    "edad": 28,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/32/Sophie_Turner_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "nombre": "Jennifer Lawrence",
+    "edad": 34,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jennifer_Lawrence_in_2018.jpg"
+  },
+  {
+    "nombre": "Sam Worthington",
+    "edad": 48,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/63/Sam_Worthington_2010.jpg"
+  },
+  {
+    "nombre": "Kristen Stewart",
+    "edad": 34,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kristen_Stewart_C%C3%A9sar_2015_3.jpg"
+  },
+  {
+    "nombre": "Daniel Craig",
+    "edad": 56,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Daniel_Craig_in_2015.jpg"
+  },
+  {
+    "nombre": "Scarlett Johansson",
+    "edad": 39,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Jessica Chastain",
+    "edad": 47,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Jessica_Chastain_Cannes_2012_%28revised%29.jpg"
+  },
+  {
+    "nombre": "Tom Hardy",
+    "edad": 47,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tom_Hardy_Cannes_2015.jpg"
+  },
+  {
+    "nombre": "Matt Damon",
+    "edad": 54,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/98/Matt_Damon_TIFF_2015.jpg"
+  },
+  {
+    "nombre": "Rachel McAdams",
+    "edad": 46,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/76/Rachel_McAdams_2016.jpg"
+  },
+  {
+    "nombre": "Hugh Jackman",
+    "edad": 55,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hugh_Jackman_at_the_2017_Golden_Globe_Awards.jpg"
+  },
+  {
+    "nombre": "Liam Neeson",
+    "edad": 72,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Liam_Neeson_Deauville_2012_2.jpg"
+  },
+  {
+    "nombre": "Chris Pratt",
+    "edad": 45,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Chris_Pratt_2018.jpg"
+  },
+  {
+    "nombre": "Eva Green",
+    "edad": 44,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Eva_Green_2018.jpg"
+  },
+  {
+    "nombre": "Michael B. Jordan",
+    "edad": 37,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/59/Michael_B._Jordan_2016.jpg"
+  },
+  {
+    "nombre": "Channing Tatum",
+    "edad": 44,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Channing_Tatum_%2845855755122%29_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Lupita Nyong'o",
+    "edad": 41,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lupita_Nyong%27o_Cannes_2015.jpg"
+  },
+  {
+    "nombre": "Mahershala Ali",
+    "edad": 50,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/39/Mahershala_Ali_by_Gage_Skidmore.jpg"
+  },
+  {
+    "nombre": "Idris Elba",
+    "edad": 52,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Idris_Elba-4581_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Tom Holland",
+    "edad": 28,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tom_Holland_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "nombre": "Brie Larson",
+    "edad": 35,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Brie_Larson_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "nombre": "Tom Hiddleston",
+    "edad": 43,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Tom_Hiddleston_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "nombre": "Rami Malek",
+    "edad": 43,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/49/Rami_Malek_in_2015_%28cropped%29.jpg"
+  },
+  {
+    "nombre": "Jared Leto",
+    "edad": 52,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Jared_Leto-6888.jpg"
+  },
+  {
+    "nombre": "Riz Ahmed",
+    "edad": 41,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Riz_Ahmed_by_Gage_Skidmore.jpg"
+  },
+  {
+    "nombre": "Henry Cavill",
+    "edad": 41,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/57/Henry_Cavill_2019_by_Gage_Skidmore.jpg"
+  },
+  {
+    "nombre": "Elisabeth Moss",
+    "edad": 42,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/35/Elisabeth_Moss_in_2017.jpg"
+  },
+  {
+    "nombre": "Jamie Dornan",
+    "edad": 42,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jamie_Dornan_Berlinale_2018.jpg"
+  },
+  {
+    "nombre": "Daisy Ridley",
+    "edad": 32,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/52/Daisy_Ridley_by_Gage_Skidmore.jpg"
+  },
+  {
+    "nombre": "John Boyega",
+    "edad": 32,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7c/John_Boyega_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "nombre": "Saoirse Ronan",
+    "edad": 30,
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Saoirse_Ronan%2C_2015_%28cropped%29.jpg"
   }
 ]
