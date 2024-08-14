@@ -26,10 +26,7 @@ export default async function Home() {
       ) : (
         <>
           <Link href="/login" className="btn">
-            Registrar o iniciar sesión
-          </Link>
-          <Link href="/quiz" className="btn">
-            Empezar como invitado
+            Registrate o inicia sesión para jugar
           </Link>
         </>
       )}
