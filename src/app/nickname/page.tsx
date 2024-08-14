@@ -24,10 +24,10 @@ export default async function NicknamePage() {
         name="nickname"
         type="text"
         placeholder="Tu apodo"
-        className="input-login"
+        className="input-login text-[#2b2b2b] placeholder:text-[#2b2b2b]"
         required
       />
-      <button type="submit" className="btn">
+      <button type="submit" className="btn ml-4">
         Guardar
       </button>
     </form>

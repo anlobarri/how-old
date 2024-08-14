@@ -38,6 +38,7 @@ export async function signup(formData: FormData) {
   const { error } = await supabase.auth.signUp(data);
 
   if (error) {
+    console.log("Error signing up:", error);
     redirect("/error");
   }
 
@@ -73,5 +74,5 @@ export async function saveNickname(formData: FormData) {
   }
 
   revalidatePath("/", "layout");
-  redirect("/quiz");
+  redirect("/");
 }

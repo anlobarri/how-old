@@ -20,7 +20,7 @@ export default async function Home() {
         <>
           <button>Bienvenido {userPublic[0]?.nickname}</button>
           <Link href="/quiz" className="btn">
-            Empezar
+            Empieza a jugar
           </Link>
         </>
       ) : (
