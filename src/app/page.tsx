@@ -1,12 +1,33 @@
-import Quiz from "@/components/Quiz";
+import { createClient } from "@/utils/supabase/server";
+import Link from "next/link";
 
-export default function Home() {
+export default async function Home() {
+  const supabase = createClient();
+  const { data: user, error: userError } = await supabase.auth.getUser();
+  const { data: userPublic, error: userPublicError } = await supabase
+    .from("users")
+    .select("*")
+    .eq("id", user?.user?.id);
+
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center">
-      <h1 className="text-4xl font-black mb-8">
-        How<span className="text-[#EFD81D]">Old</span>
-      </h1>
-      <Quiz />
-    </main>
+    <>
+      {userPublic ? (
+        <>
+          <button>Bienvenido {userPublic[0]?.nickname}</button>
+          <Link href="/quiz" className="btn">
+            Empezar
+          </Link>
+        </>
+      ) : (
+        <>
+          <Link href="/login" className="btn">
+            Registrar o iniciar sesión
+          </Link>
+          <Link href="/quiz" className="btn">
+            Empezar
+          </Link>
+        </>
+      )}
+    </>
   );
 }

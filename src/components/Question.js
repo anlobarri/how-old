@@ -59,7 +59,7 @@ export default function Question({ famoso, onAnswer, questionNumber, totalQuesti
     if (age === selectedAge) return 'bg-red-900 ';
     return 'bg-transparent ';
   };
-
+  
   return (
     <div className="text-center">
       <div className='flex flex-row gap-4 justify-center mb-4'>
